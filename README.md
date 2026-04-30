@@ -1,4 +1,4 @@
-# 🌍 Global Tourism Receipts Analysis (200-2020)
+# 🌍 Global Tourism Receipts Analysis (1995-2020)
 
 A comprehensive data analysis project examing international tourism receipts trends, growth patterns and COVID-19 impact across 200+ countries using Python, Pandas and Seaborn.
 
